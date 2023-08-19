@@ -2,6 +2,7 @@
 This repo contains code of a Simple web server built using GO
 
 To test and run this server on your local system follow the steps below:
+
 Step 1: Clone this repo onto your local system
 
 Step 2: Navigate to the directory where you have cloned this repo through Terminal/Powershell
